@@ -1,7 +1,7 @@
 ---
-home: false
+home: true
 pageClass: front
-actionText: Hello VuePress →
+actionText: Hi VuePress →
 actionLink: /docs/
 features:
 - title: Feature 1

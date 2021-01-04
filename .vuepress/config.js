@@ -1,5 +1,5 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "Upstate Politics",
     locales: {
         '/': {
             lang: 'de-DE',

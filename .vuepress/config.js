@@ -38,16 +38,7 @@ module.exports = {
             }
 
         ],
-        sidebar: [
-        '/',
-        {
-            title: 'Guide',
-            collapsable: false,
-            children: [ 
-            ['/docs/','Frontend'],
-            ['/docs/', 'Backend' ]
-
-        },
+        
 
     }
 }

@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 pageClass: front
 actionText: Hello VuePress →
 actionLink: /docs/

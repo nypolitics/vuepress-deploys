@@ -37,7 +37,17 @@ module.exports = {
                 link: '/docs/netlifycms-configuration.html',
             }
 
-        ]
+        ],
+        sidebar: [
+        '/',
+        {
+            title: 'Guide',
+            collapsable: false,
+            children: [ 
+            ['/guide/Frontend','Frontend'],
+            ['/guide/Backend' , 'Backend' ]
+
+        },
 
     }
 }

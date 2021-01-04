@@ -44,8 +44,8 @@ module.exports = {
             title: 'Guide',
             collapsable: false,
             children: [ 
-            ['/guide/Frontend','Frontend'],
-            ['/guide/Backend' , 'Backend' ]
+            ['/docs/','Frontend'],
+            ['/docs/', 'Backend' ]
 
         },
 
